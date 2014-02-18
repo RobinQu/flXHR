@@ -1,0 +1,24 @@
+{
+  "name": "flxhr",
+  "main": "flXHR.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/RobinQu/flXHR",
+  "authors": [
+    "RobinQu <robinqu@gmail.com>"
+  ],
+  "description": "Port of flXHR to bower system",
+  "keywords": [
+    "flash",
+    "ajax",
+    "cross-domain"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
